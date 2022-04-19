@@ -1,1 +1,3 @@
-pub fn shit() {}
+pub fn shit() {
+    println!("Hello")
+}
